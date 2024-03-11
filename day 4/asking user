@@ -1,0 +1,5 @@
+print(input("what is your first name?"))
+
+print(input("how old are you?"))
+
+print(input("what is your last name?"))
