@@ -1,0 +1,8 @@
+num1=19
+num2=31
+num3=0
+num4=1
+
+print(num1+num2)
+print(num3-num1)
+print(num4+num3)
